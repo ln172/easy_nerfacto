@@ -4,3 +4,5 @@
 render视频地址：
 
 https://github.com/ln172/easy_nerfacto/issues/1#issue-1834285263
+
+分辨率：1212，测试机子：rog魔霸新锐 RTX3060 6GB
