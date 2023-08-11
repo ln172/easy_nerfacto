@@ -10,4 +10,4 @@ dependencies=[
 include = ["nerfac*"]
 
 [project.entry-points.'nerfstudio.method_configs']
-zipnerf = 'nerfac.nerfac_config:nerfac_method'
+nerfac = 'nerfac.nerfac_config:nerfac_method'
